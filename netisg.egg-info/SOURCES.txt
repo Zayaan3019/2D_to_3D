@@ -1,0 +1,6 @@
+setup.py
+netisg.egg-info/PKG-INFO
+netisg.egg-info/SOURCES.txt
+netisg.egg-info/dependency_links.txt
+netisg.egg-info/requires.txt
+netisg.egg-info/top_level.txt

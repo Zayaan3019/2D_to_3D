@@ -1,0 +1,13 @@
+# Core scientific and image processing libraries
+numpy
+scipy
+opencv-python
+rembg
+onnxruntime
+tqdm
+
+# 3D visualization
+open3d
+
+# The only deep learning library needed
+torch

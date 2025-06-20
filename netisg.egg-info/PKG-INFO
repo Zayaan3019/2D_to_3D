@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: netisg
+Version: 12.1.0
+Summary: NETISG-XII: A Universal and Robust Deep Learning Skeletonization Framework
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: opencv-python
+Requires-Dist: rembg
+Requires-Dist: onnxruntime
+Requires-Dist: tqdm
+Requires-Dist: open3d
+Requires-Dist: torch
+Requires-Dist: Pillow
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
